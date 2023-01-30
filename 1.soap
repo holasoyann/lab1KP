@@ -1,0 +1,357 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<SOAP-ENC:Array SOAP-ENC:arrayType="a1:Point[5]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/PointsCs/PointsCs%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-3"/>
+<item href="#ref-4"/>
+<item href="#ref-5"/>
+<item href="#ref-6"/>
+<item href="#ref-7"/>
+</SOAP-ENC:Array>
+<a2:Point3D id="ref-3" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/KPlab1/KPlab1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_Z_x003E_k__BackingField>1</_x003C_Z_x003E_k__BackingField>
+<X>4</X>
+<Y>7</Y>
+<rnd href="#ref-9"/>
+<Point_x002B_rnd href="#ref-9"/>
+</a2:Point3D>
+<a1:Point id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/PointsCs/PointsCs%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<X>4</X>
+<Y>7</Y>
+<rnd href="#ref-10"/>
+</a1:Point>
+<a1:Point id="ref-5" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/PointsCs/PointsCs%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<X>4</X>
+<Y>7</Y>
+<rnd href="#ref-11"/>
+</a1:Point>
+<a2:Point3D id="ref-6" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/KPlab1/KPlab1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_Z_x003E_k__BackingField>1</_x003C_Z_x003E_k__BackingField>
+<X>4</X>
+<Y>7</Y>
+<rnd href="#ref-12"/>
+<Point_x002B_rnd href="#ref-12"/>
+</a2:Point3D>
+<a2:Point3D id="ref-7" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/KPlab1/KPlab1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_Z_x003E_k__BackingField>1</_x003C_Z_x003E_k__BackingField>
+<X>4</X>
+<Y>7</Y>
+<rnd href="#ref-13"/>
+<Point_x002B_rnd href="#ref-13"/>
+</a2:Point3D>
+<a3:Random id="ref-9" xmlns:a3="http://schemas.microsoft.com/clr/ns/System">
+<inext>3</inext>
+<inextp>24</inextp>
+<SeedArray href="#ref-14"/>
+</a3:Random>
+<a3:Random id="ref-10" xmlns:a3="http://schemas.microsoft.com/clr/ns/System">
+<inext>2</inext>
+<inextp>23</inextp>
+<SeedArray href="#ref-15"/>
+</a3:Random>
+<a3:Random id="ref-11" xmlns:a3="http://schemas.microsoft.com/clr/ns/System">
+<inext>2</inext>
+<inextp>23</inextp>
+<SeedArray href="#ref-16"/>
+</a3:Random>
+<a3:Random id="ref-12" xmlns:a3="http://schemas.microsoft.com/clr/ns/System">
+<inext>3</inext>
+<inextp>24</inextp>
+<SeedArray href="#ref-17"/>
+</a3:Random>
+<a3:Random id="ref-13" xmlns:a3="http://schemas.microsoft.com/clr/ns/System">
+<inext>3</inext>
+<inextp>24</inextp>
+<SeedArray href="#ref-18"/>
+</a3:Random>
+<SOAP-ENC:Array id="ref-14" SOAP-ENC:arrayType="xsd:int[56]">
+<item>0</item>
+<item>1010459430</item>
+<item>1603607096</item>
+<item>232729203</item>
+<item>312736226</item>
+<item>1683659938</item>
+<item>1905377728</item>
+<item>444404601</item>
+<item>1737318300</item>
+<item>1546019593</item>
+<item>1070228075</item>
+<item>1853077922</item>
+<item>63600287</item>
+<item>947882995</item>
+<item>1612728000</item>
+<item>1888502877</item>
+<item>392000086</item>
+<item>1785393983</item>
+<item>1964771281</item>
+<item>413026045</item>
+<item>786735986</item>
+<item>1519902479</item>
+<item>1139318839</item>
+<item>1954014831</item>
+<item>1448001442</item>
+<item>1147962595</item>
+<item>335620045</item>
+<item>1778182405</item>
+<item>200503572</item>
+<item>531758597</item>
+<item>1975077338</item>
+<item>2142696772</item>
+<item>465538571</item>
+<item>1406294759</item>
+<item>1958589174</item>
+<item>1196830949</item>
+<item>1999586383</item>
+<item>1463602751</item>
+<item>943764955</item>
+<item>1874486353</item>
+<item>1422936403</item>
+<item>1620038762</item>
+<item>1636688486</item>
+<item>611876764</item>
+<item>974382981</item>
+<item>1561066264</item>
+<item>1494537246</item>
+<item>1935556040</item>
+<item>1405503480</item>
+<item>1888320012</item>
+<item>316546633</item>
+<item>2070353061</item>
+<item>677097139</item>
+<item>499691300</item>
+<item>266971556</item>
+<item>1920315416</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-15" SOAP-ENC:arrayType="xsd:int[56]">
+<item>0</item>
+<item>1010459430</item>
+<item>1603607096</item>
+<item>1680730645</item>
+<item>312736226</item>
+<item>1683659938</item>
+<item>1905377728</item>
+<item>444404601</item>
+<item>1737318300</item>
+<item>1546019593</item>
+<item>1070228075</item>
+<item>1853077922</item>
+<item>63600287</item>
+<item>947882995</item>
+<item>1612728000</item>
+<item>1888502877</item>
+<item>392000086</item>
+<item>1785393983</item>
+<item>1964771281</item>
+<item>413026045</item>
+<item>786735986</item>
+<item>1519902479</item>
+<item>1139318839</item>
+<item>1954014831</item>
+<item>1448001442</item>
+<item>1147962595</item>
+<item>335620045</item>
+<item>1778182405</item>
+<item>200503572</item>
+<item>531758597</item>
+<item>1975077338</item>
+<item>2142696772</item>
+<item>465538571</item>
+<item>1406294759</item>
+<item>1958589174</item>
+<item>1196830949</item>
+<item>1999586383</item>
+<item>1463602751</item>
+<item>943764955</item>
+<item>1874486353</item>
+<item>1422936403</item>
+<item>1620038762</item>
+<item>1636688486</item>
+<item>611876764</item>
+<item>974382981</item>
+<item>1561066264</item>
+<item>1494537246</item>
+<item>1935556040</item>
+<item>1405503480</item>
+<item>1888320012</item>
+<item>316546633</item>
+<item>2070353061</item>
+<item>677097139</item>
+<item>499691300</item>
+<item>266971556</item>
+<item>1920315416</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-16" SOAP-ENC:arrayType="xsd:int[56]">
+<item>0</item>
+<item>1010459430</item>
+<item>1603607096</item>
+<item>1680730645</item>
+<item>312736226</item>
+<item>1683659938</item>
+<item>1905377728</item>
+<item>444404601</item>
+<item>1737318300</item>
+<item>1546019593</item>
+<item>1070228075</item>
+<item>1853077922</item>
+<item>63600287</item>
+<item>947882995</item>
+<item>1612728000</item>
+<item>1888502877</item>
+<item>392000086</item>
+<item>1785393983</item>
+<item>1964771281</item>
+<item>413026045</item>
+<item>786735986</item>
+<item>1519902479</item>
+<item>1139318839</item>
+<item>1954014831</item>
+<item>1448001442</item>
+<item>1147962595</item>
+<item>335620045</item>
+<item>1778182405</item>
+<item>200503572</item>
+<item>531758597</item>
+<item>1975077338</item>
+<item>2142696772</item>
+<item>465538571</item>
+<item>1406294759</item>
+<item>1958589174</item>
+<item>1196830949</item>
+<item>1999586383</item>
+<item>1463602751</item>
+<item>943764955</item>
+<item>1874486353</item>
+<item>1422936403</item>
+<item>1620038762</item>
+<item>1636688486</item>
+<item>611876764</item>
+<item>974382981</item>
+<item>1561066264</item>
+<item>1494537246</item>
+<item>1935556040</item>
+<item>1405503480</item>
+<item>1888320012</item>
+<item>316546633</item>
+<item>2070353061</item>
+<item>677097139</item>
+<item>499691300</item>
+<item>266971556</item>
+<item>1920315416</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-17" SOAP-ENC:arrayType="xsd:int[56]">
+<item>0</item>
+<item>1010459430</item>
+<item>1603607096</item>
+<item>232729203</item>
+<item>312736226</item>
+<item>1683659938</item>
+<item>1905377728</item>
+<item>444404601</item>
+<item>1737318300</item>
+<item>1546019593</item>
+<item>1070228075</item>
+<item>1853077922</item>
+<item>63600287</item>
+<item>947882995</item>
+<item>1612728000</item>
+<item>1888502877</item>
+<item>392000086</item>
+<item>1785393983</item>
+<item>1964771281</item>
+<item>413026045</item>
+<item>786735986</item>
+<item>1519902479</item>
+<item>1139318839</item>
+<item>1954014831</item>
+<item>1448001442</item>
+<item>1147962595</item>
+<item>335620045</item>
+<item>1778182405</item>
+<item>200503572</item>
+<item>531758597</item>
+<item>1975077338</item>
+<item>2142696772</item>
+<item>465538571</item>
+<item>1406294759</item>
+<item>1958589174</item>
+<item>1196830949</item>
+<item>1999586383</item>
+<item>1463602751</item>
+<item>943764955</item>
+<item>1874486353</item>
+<item>1422936403</item>
+<item>1620038762</item>
+<item>1636688486</item>
+<item>611876764</item>
+<item>974382981</item>
+<item>1561066264</item>
+<item>1494537246</item>
+<item>1935556040</item>
+<item>1405503480</item>
+<item>1888320012</item>
+<item>316546633</item>
+<item>2070353061</item>
+<item>677097139</item>
+<item>499691300</item>
+<item>266971556</item>
+<item>1920315416</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-18" SOAP-ENC:arrayType="xsd:int[56]">
+<item>0</item>
+<item>1010459430</item>
+<item>1603607096</item>
+<item>232729203</item>
+<item>312736226</item>
+<item>1683659938</item>
+<item>1905377728</item>
+<item>444404601</item>
+<item>1737318300</item>
+<item>1546019593</item>
+<item>1070228075</item>
+<item>1853077922</item>
+<item>63600287</item>
+<item>947882995</item>
+<item>1612728000</item>
+<item>1888502877</item>
+<item>392000086</item>
+<item>1785393983</item>
+<item>1964771281</item>
+<item>413026045</item>
+<item>786735986</item>
+<item>1519902479</item>
+<item>1139318839</item>
+<item>1954014831</item>
+<item>1448001442</item>
+<item>1147962595</item>
+<item>335620045</item>
+<item>1778182405</item>
+<item>200503572</item>
+<item>531758597</item>
+<item>1975077338</item>
+<item>2142696772</item>
+<item>465538571</item>
+<item>1406294759</item>
+<item>1958589174</item>
+<item>1196830949</item>
+<item>1999586383</item>
+<item>1463602751</item>
+<item>943764955</item>
+<item>1874486353</item>
+<item>1422936403</item>
+<item>1620038762</item>
+<item>1636688486</item>
+<item>611876764</item>
+<item>974382981</item>
+<item>1561066264</item>
+<item>1494537246</item>
+<item>1935556040</item>
+<item>1405503480</item>
+<item>1888320012</item>
+<item>316546633</item>
+<item>2070353061</item>
+<item>677097139</item>
+<item>499691300</item>
+<item>266971556</item>
+<item>1920315416</item>
+</SOAP-ENC:Array>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
